@@ -12,4 +12,5 @@ _Please note this list of members is tentative and subject to change as students
 - Alex G.
 - Alan K.
 - Ahmad S.
+- H. Charles
 
