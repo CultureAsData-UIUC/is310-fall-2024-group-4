@@ -6,7 +6,7 @@
 
 The idea of data and culture sparked the idea of social media in our heads. It is immeasurable how important social media is to every NBA team; maintaining engagement from the fans is essential to the team's success, including motivation, performance, earning money, reputation, and more.
 
-Thus, we chose to explore the impact social media, an ordeal played outside the court, has on the NBA. We hope to understand how every team in the league has utilized their social media outlets and see how it affects their performance and success. **Based on their social media and performance in games, which teams in the league are the most dominant or successful in the NBA?**
+Thus, we chose to explore the impact social media, an ordeal played outside the court, has on the NBA. We hope to understand how every team in the league has utilized their social media outlets and see how it affects their performance and success. We would examine which way the relationship is: **How does fan engagement on an NBA team's social media change after the team's performance, such as wins/loss?** or **How does fan engagement on the social media of NBA teams affect their results in actual games?**
 
 Our group is focused on examining the social media presence of every NBA team, and how their utilization of their social media platforms translates back onto the court. What's the relationship between the team's performance in the NBA, such as wins in playoffs or points scored, and their usage of their social media platforms?
 
