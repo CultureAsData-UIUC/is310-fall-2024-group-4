@@ -1,39 +1,40 @@
-Topic: sports, gaming/esports
+# NBA Social Media Presence
 
-Group dynamic and logistics. 
-Our group decided to communicate with each other via discord. We plan to have a discord server that will be used to bounce ideas back and forth between each other. As for project manager, we will include a volunteer system where members can be project managers for topics that they are interested in. 
-Part 2: 
-One digital object we found was a website called basketball reference, which contains pretty much every stat for the NBA. This is related to sports, and is interesting to look at because it contains so much information. (Alan)
+#### Ahmad, Haydn E, Alex G, Justin B, Alan K
 
-Since the internet has been popular, most basketball stats have been entered electronically, but prior they were recorded in stat books. Although not stated on the website, we can assume there was a lot of manual entry from old stat books. The website tracks as far back as 1946, so not as old as some of the other things we read about, making it easier to obtain these stats. The good news is most of the stats from the pre internet era have already been recorded, so the site probably isn’t looking into more advanced ways to convert to electronic. 
+## Topics
 
-Some historical equivalents to sites like this are stat books and physical film. There are lots of old NBA games without available film, which makes the stat books the only record we have of what happened on the court. Film tends to be harder to come by for older games. These days we have camera tracking players and the ball.
+The idea of data and culture sparked the idea of social media in our heads. It is immeasurable how important social media is to every NBA team; maintaining engagement from the fans is essential to the team's success, including motivation, performance, earning money, reputation, and more.
 
- For our area of focus, there are born digital materials such as film of games, photographs taken during games or even people recording a game via software and saving it on their computer. This compares to digitized materials such as records of stats of players that may get converted into spreadsheet on google. Examples of this could include statistics for average 3 point percentage of a certain player, records of a teams win/loss ratio per season. 
+Thus, we chose to explore the impact social media, an ordeal played outside the court, has on the NBA. We hope to understand how every team in the league has utilized their social media outlets and see how it affects their performance and success. 
 
-The NBA’s 1st official season was 1949, or 1946 if you count the American Basketball League. I’m under the impression that player statistics for NBA games has been well-documented since the beginning, as we found many libraries that record player statistics. At first, stats were written down by hand, and then eventually transferred into digital libraries for an easier viewing experience: https://www.nba.com/news/history-season-recaps-index 
-https://en.hispanosnba.com/nba/history/seasons/1949-50/stats-leaders
-https://www.basketball-reference.com/
-https://www.landofbasketball.com/year_by_year_stats/1949_1950_leaders_points_pg_rs.htm (Alan)
+Our group is focused on examining the social media presence of every NBA team, and how their utilization of their social media platforms translates back onto the court. What's the relationship between the team's performance in the NBA, such as wins in playoffs or points scored, and their usage of their social media platforms?
 
-The newest digital archives include tools like Synergy Sports Technology which is used within professional sports arenas to analyze live footage. This is a premium product for basketball analysts because of its depth of access to thousands of players utilizing on court player tracking to assess movement. Compared to older libraries, the access to precise data allows for greater potential for insights and improvement in the sport. The increased data highlights nuance that previous databases could not cover. 
+## Materials
 
- One object that has recently gone “viral” is a game on basketball reference called immaculate grid. This is a game with a 3x3 grid with different criteria on both axis, and you have to try to fill in the rarest player that fits that criteria. This game got popular through sites like tik tok and Instagram with people posting videos of them playing it. Although sites like basketball reference were popular to the dedicated fans and statisticians before this game, it helped expose the database to a more casual audience. 
+We don't expect to handle any physical objects as our scope focuses on the recent bouts of the NBA, where everything has been recorded and posted digitally.
 
-An example of a free digital library for sports stats would be on the websites: https://data.world/datasets/sports and https://www.nba.com/stats. There are a variety of datasets based on NBA players, statistics, predictions, and sports culture. For example, there is a dataset that details NBA combine measurements from several years back. Though this data is technically free to use, it does require account creation. Depending on your view and value of user data and the requirement of giving some of your data to this website, you may view this platform as a service with a cost. However, I’m simply focusing on the fact that it doesn’t cost any money. After a little bit of searching, I could not find a service that provides stats on basketball for a paid fee or subscription. I’m sure it might exist, but I could not find anything within a reasonable amount of time. I’m sure I could find something with an extensive amount of research. 
+However, we understand that statistics for teams have historically been collected manually such as handwritten statbooks. It wasn't until recent decades we started to see the mass digitization of NBA statistics. Therefore, we aim to compile existing digital data, such as metrics on a team's social media and performance, into an augmented dataset that'll guide us in finding the answer to our question.
 
-					Project Proposal
-Idea 1: Compare average height of an NBA team to win rate of that team in one year
+Social media is a numbers game, so we foresee us taking a look at metrics like followers, reposts, like counts, and shares over time.
 
 
+## Division of Labor
 
-Materials: Seek out existing digital materials, study them, and make arguments based off the data. 
+After [spinning a wheel](https://wheelofnames.com) to determining the order of project managers, our weekly rotation of project managers is as follows:
 
-					Timeline of Project
-Mid semester Dataset start in the first week of October, aim to turn it in the 10th. If we need more time, take the extension and turn it in before the 17th. 
+#### Ahmad S -> Haydn E -> Alex G -> Justin B -> Alan K -> Ahmad S -> and so on...
 
-Experimenting with Datasets Update 5%
-Start in the first week of november, aim to complete by the 14th of november. Giving us extra time to work o
-ut any kinks and finish this part by the 21st. 
-Demo Data Day
-The presentation day is the 10th of december, our group will get together a few days before to practice presenting with each other and work out the flow. 
+We will cycle back to the first person after each person has been PM once.
+
+Each week will have some large goal that we want to accomplish as a group. The PM for the week will delegate components of the larger tasks to group members who specialize in accomplishing them.
+
+Some of us are more knowledgeable about the NBA itself than working with Git/Github and vice versa. 
+
+For example, we delegated the role of finding essential NBA statistics that we should collect to Justin and Haydn. They were more knowledgeable on what statistics determine a team's success, as we were measuring how successful a team is as a part of our project.
+
+## Timeline
+
+**★ Sep 24 | Initial Project Proposal**
+
+**★ Oct 22 | Dataset**
