@@ -1,7 +1,8 @@
- Mid Semester Dataset & Documentation Update
+Mid Semester Dataset & Documentation Update
 
- you can alternatively view this document here: https://docs.google.com/document/d/136gO7NI4CbYgTtN3oZ9-oManwGvTXgX-4aDhE8zL850/edit?usp=sharing
- you can view the data here: https://docs.google.com/spreadsheets/d/1bpgP3dgeQSBnyGxIHyjltKDm4sN4C2QWfGLNS7Zra-A/edit?usp=sharing
+you can alternatively view this document here: https://docs.google.com/document/d/136gO7NI4CbYgTtN3oZ9-oManwGvTXgX-4aDhE8zL850/edit?usp=sharing
+ 
+you can view the data here: https://docs.google.com/spreadsheets/d/1bpgP3dgeQSBnyGxIHyjltKDm4sN4C2QWfGLNS7Zra-A/edit?usp=sharing
 
 Initial Dataset Documentation 
 Process and Choices
