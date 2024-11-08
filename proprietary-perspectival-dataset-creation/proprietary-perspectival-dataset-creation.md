@@ -26,7 +26,7 @@ We will collect data by treating each short video/"reel" as an entry in the data
 
 ## The dataset
 
-[Access our dataset here](link)
+[Access our dataset here](data.py)
 
 ## Reflection 
 
