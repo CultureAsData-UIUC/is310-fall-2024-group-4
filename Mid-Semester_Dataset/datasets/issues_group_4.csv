@@ -1,0 +1,271 @@
+html_url,issue_status_on_project_board,title,created_at,content.body,user.login,state,body,updated_at,closed_at,assignee,assignees,labels,milestone,draft,comments,state_reason,closed_by.login,reactions.total_count,pull_request.url,assignees_logins,issue_duration,issue_associated_with_pull_request
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/6,In Progress,[Weekly Report] Project Manager for Week 10,2024-10-31 19:33:56+00:00,,haydnelm,open,"For the final week of October we met up outside of class on Friday to assign 2 NBA teams per group member. We had to collect social media data of the 5 starting players in each of the 2 teams. The amount of teams couldn't be evenly divided, so massive thanks to Haydyn for stepping up and doing the rest of the missing teams.
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [x] Created a weekly report for the group project
+- [x] Updated the project board
+- [x] Checked in with team members
+- [x] Assigned tasks for the upcoming week
+- [x] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+
+- What has been accomplished?
+Mid-semester dataset was completed:
+https://docs.google.com/document/d/1tMn9Uqo07WAT6gdNtFFjg6NSmMM0wrqP0FvV_zbpVEY/edit?tab=t.0
+https://docs.google.com/spreadsheets/d/1bpgP3dgeQSBnyGxIHyjltKDm4sN4C2QWfGLNS7Zra-A/edit?gid=0#gid=0
+- Any problems or issues that need resolving?
+
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+Arrange a group meeting outside of class to finalize
+- Who is assigned to what tasks?
+
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-11-02 20:10:34+00:00,,,[],[],,,0.0,reopened,haydnelm,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/2,Done,[Weekly Report] Project Manager for Week 3,2024-09-19 19:48:45+00:00,,ahmadsawwan,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/3,Done,Meet on Friday at 330 PM,2024-09-19 19:49:48+00:00,,ahmadsawwan,closed,Meet on Friday to work on project. ,2024-09-20 20:30:06+00:00,2024-09-20 20:30:06+00:00,,[],[],,,1.0,completed,ahmadsawwan,0.0,,,1.0,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/5,Done,[Weekly Report] Project Manager for Week 5,2024-10-03 18:56:52+00:00,,haydnelm,closed,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [x] Created a weekly report for the group project
+- [x] Updated the project board
+- [x] Checked in with team members
+- [x] Assigned tasks for the upcoming week
+- [x] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+      The main goal that our group had for this week was to revise our initial project proposal. Our feedback revealed that we were off on a lot of the marks for the project. We need to rework our scope and outcome for the project. We also figured out that our volunteer system for PM was not going to work. There was a lot to revise for our project this week.
+
+- What has been accomplished?
+      We rewrote our initial project plan completely. Some previous ideas were salvaged, others were left behind. I think we have more of a structured project now. We're focusing on social media presence and its correlation with team performance across seasons.
+
+- Any problems or issues that need resolving?
+      Not yet, but I'm sure something will come up eventually.
+
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+      Continue working on the project, attempt to start creating the actual dataset to fulfil the project & research question scope.
+
+- Who is assigned to what tasks? (ideally)
+      -Every member in the group will scrape data from a social media platform in order to start developing our dataset. Gathering data is our number one priority at the moment because we need a dataset to show by Oct 22nd. So, I feel that it is best to gather the data now and then we can clean and verify the data in the coming weeks.
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-10-31 19:29:03+00:00,2024-10-03 18:56:53+00:00,,[],[],,,0.0,completed,haydnelm,0.0,,,0.0,False
+,Done,[Weekly Report] Project Manager for Week 7,2024-10-15 03:35:05+00:00,"Project Manager Weekly Report
+
+Weekly Checklist
+
+
+
+Created a weekly report for the group project
+
+
+
+Updated the project board
+
+
+
+Checked in with team members
+
+
+
+Assigned tasks for the upcoming week
+
+
+
+Close issue once the weekly tasks are completed
+
+Weekly Summary:
+
+Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.
+
+What were the goals for this week for the group project?
+The main goal for the group this week was to finish the proprietary perspectival dataset assignment using instagram. 
+
+What has been accomplished?
+We met on Friday to discuss and finish the assignment, and we were able to answer the questions about instagram's terms of service and create our own dataset using reels. We pushed the dataset and info up and turned it in. 
+
+Any problems or issues that need resolving?
+We talked about switching our platform to X for our main project, as it allows data scraping. 
+
+Next Week's Goals:
+
+Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.
+
+What are the goals for the upcoming week?
+Continue working on the project, implement web scraping into our project to get the basis of our dataset. 
+
+Who is assigned to what tasks? (ideally)
+Similar to last week, we will need to start scraping data to form our dataset. Every member of the team will need to scrape some social media data to contribute to the project. 
+
+Notes/Additional Information:
+
+Optional additional information
+
+Anything else to highlight?
+Good efficiency on work this week. ",adg77,,,,,,,,,,,,,,,,,False
+,Done,[Weekly Report] Project Manager for Week 9,2024-10-28 04:15:26+00:00,"Weekly Checklist
+- Assigned tasks for group project
+- Collected social media data for top 5 and bottom 5 teams
+- Met up with team members on Friday (out of class)
+- Assigned team due dates for group assignment
+Weekly Summary:
+
+
+What were the goals for this week for the group project?
+The main goal this week was to get ahead of our group project. To complete this we met up as a team on Friday and gathered data and analyzed it for multiple hours. was not going to work. There was a lot to revise for our project this week.
+What has been accomplished?
+We collected data on Twitter and discussed our analysis to reflect on our project.
+Any problems or issues that need resolving?
+Not this week. Feel great going into our group projects submission.
+Next Week's Goals:
+What are the goals for the upcoming week?
+Double check and organize our assignment for our due date 
+Who is assigned to what tasks? (ideally)
+-We all took part in collecting and analyzing data together. We individually selected NBA teams to collect data on. As a whole we need to discuss our takeaways as a team to learn through each other's experiences to reflect on our dataset and identify correlations.
+
+",JBrown-0,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/7,Todo,[Weekly Report] Project Manager for Week 4,2024-10-31 19:34:43+00:00,,haydnelm,open,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [ ] Created a weekly report for the group project
+- [ ] Updated the project board
+- [ ] Checked in with team members
+- [ ] Assigned tasks for the upcoming week
+- [ ] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+- What has been accomplished?
+- Any problems or issues that need resolving?
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+- Who is assigned to what tasks?
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-10-31 19:34:43+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/8,Todo,[Weekly Report] Project Manager for Week 6,2024-10-31 19:34:53+00:00,,haydnelm,open,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [ ] Created a weekly report for the group project
+- [ ] Updated the project board
+- [ ] Checked in with team members
+- [ ] Assigned tasks for the upcoming week
+- [ ] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+- What has been accomplished?
+- Any problems or issues that need resolving?
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+- Who is assigned to what tasks?
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-10-31 19:34:53+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/9,Todo,[Weekly Report] Project Manager for Week 8,2024-10-31 19:35:03+00:00,,haydnelm,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/10,Todo,[Weekly Report] Project Manager for Week 11,2024-10-31 19:35:57+00:00,,haydnelm,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/11,Todo,[Weekly Report] Project Manager for Week 12,2024-10-31 19:36:04+00:00,,haydnelm,open,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [ ] Created a weekly report for the group project
+- [ ] Updated the project board
+- [ ] Checked in with team members
+- [ ] Assigned tasks for the upcoming week
+- [ ] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+- What has been accomplished?
+- Any problems or issues that need resolving?
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+- Who is assigned to what tasks?
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-10-31 19:36:04+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/12,Todo,[Weekly Report] Project Manager for Week 13,2024-10-31 19:36:11+00:00,,haydnelm,open,"This is a template for project managers to report their weekly progress. Please fill out the following sections. You can also include any additional information that you think is relevant.
+
+# Project Manager Weekly Report
+
+## Weekly Checklist
+
+- [ ] Created a weekly report for the group project
+- [ ] Updated the project board
+- [ ] Checked in with team members
+- [ ] Assigned tasks for the upcoming week
+- [ ] Close issue once the weekly tasks are completed
+
+## Weekly Summary:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What were the goals for this week for the group project?
+- What has been accomplished?
+- Any problems or issues that need resolving?
+
+## Next Week's Goals:
+*Try to answer the following questions as best you can, though you are welcome to keep it brief and in bullet points.*
+
+- What are the goals for the upcoming week?
+- Who is assigned to what tasks?
+
+## Notes/Additional Information:
+*Optional additional information*
+
+- Anything else to highlight?",2024-10-31 19:36:11+00:00,,,[],[],,,0.0,,,0.0,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/13,Todo,[Weekly Report] Project Manager for Week 14,2024-10-31 19:36:20+00:00,,haydnelm,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/14,Todo,[Weekly Report] Project Manager for Week 15,2024-10-31 19:36:36+00:00,,haydnelm,,,,,,,,,,,,,,,,,False
+https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/issues/15,Todo,[Weekly Report] Project Manager for Week 16,2024-10-31 19:36:47+00:00,,haydnelm,,,,,,,,,,,,,,,,,False

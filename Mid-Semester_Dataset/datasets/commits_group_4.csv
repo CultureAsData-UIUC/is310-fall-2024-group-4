@@ -1,0 +1,21 @@
+oid,message,committedDate,additions,deletions,changedFiles,login
+7e11eb80a3b37f5bb5600c340cba65c21d3a0e15,Update README.md,2024-10-29T17:32:55Z,5,4,1,haydnelm
+52d17079df988c2426d4a1f86a72882fc579539d,"Merge pull request #4 from CultureAsData-UIUC/project-proposal-feedback
+
+Initial project proposal feedback",2024-10-01T17:09:39Z,14,0,1,haydnelm
+a7304633922f3789d1f25a4b014dbe989f705f10,"Merge pull request #1 from CultureAsData-UIUC/adding-project-management-workflow
+
+Added project management workflow issue template",2024-09-10T19:41:28Z,41,0,2,haydnelm
+4e9f2a037d2970347af4d7ba60e9081df2449cd3,Mid-Semester Update,2024-10-29T17:31:59Z,29,0,5,haydnelm
+8ffdafa9ca7c3d2ad14eb65c32f8b1463ec283b4,license,2024-10-11T18:55:15Z,398,0,2,haydnelm
+fc7493b12dfcbb298e86b425c03e816f1a043634,Initial Project & Semester Planning Proposal,2024-09-19T19:49:39Z,39,0,1,haydnelm
+183bf059a4a6233f017e41038891837e5527c760,Update data.py,2024-10-17T18:41:06Z,4,0,1,adg77
+23c54149359740299415088b0edc27200a286a70,Update README.md,2024-10-14T22:37:46Z,1,2,1,AlanK3
+ef7662d3028ae80434732f72e111bd09999224c8,Create data.py,2024-10-14T22:37:02Z,27,0,1,AlanK3
+daddacca88171d55cc3b95d48a51cae05aee7a3f,Update proprietary-perspectival-dataset-creation.md,2024-10-11T18:59:28Z,55,0,1,AlanK3
+d468d8b38a5ce7bb6ceb71649e94c729f978f722,Update README.md,2024-10-08T19:32:36Z,1,1,1,AlanK3
+993f3c29355f60feb7bd716d121c5ce55912bf41,Update README.md,2024-10-08T19:29:04Z,1,1,1,AlanK3
+82c9a15eca80cffc586dc48e610e72c76f36482a,updated proposal based on instructor feedback,2024-10-08T18:26:11Z,26,25,1,AlanK3
+7b4555045248435d888d3a6e99ead9c5da491ba8,renamed proprietary-perspectival-dataset-creation per project instructions,2024-10-08T19:44:20Z,0,0,2,AlanK3
+b5ca2b0d5ca8e0dabb9e37d5e414cfac167fd29f,added dataset creation for the next project checkpoint,2024-10-08T19:38:27Z,3,0,1,AlanK3
+aa1af0323966d8303849f2c190f66b96a3bffaa7,added quesitons and answers to Readme file,2024-09-20T20:44:48Z,99,0,1,ahmadsawwan
