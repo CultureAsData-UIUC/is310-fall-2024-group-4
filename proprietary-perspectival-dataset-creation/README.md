@@ -34,14 +34,15 @@ We will collect data by treating each short video/"reel" as an entry in the data
 
 We chose the subjective column by thinking about a popular metric that is used to determine enjoyment or satisfaction. We came up with ratings because it is very subjective and differs from person to person. One of the group members looked at the ratings differently and thought it would be how well the video did compared to the views it had. The way the other group members rated the video is how relevant we thought the video was and how much we enjoyed it regardless of other people's opinions. 
 
+Another subjective category we collected was genre. In retrospect, we should've has an assigned list of genres to pick from instead of an open ended question because we ended up interpreting the column differently. The main issue is some people were more specific, like gambling, where others were more vague like skit. Then, a lot of us got confused about materially oriented content, which was also too vague. In the future, we noted to be more specific about subjective categories.
+
 Instagram allows users to see followers, likes, comments, shares, and finally views. We decided to pick out followers, likes, and views since these are not repeated for each user. With this data, we were able to see the popularity of a video and the account itself and compare the numbers to each other. One difficulty in collecting this data was trying to find the views. To see the views, a user has to go to the accounts page and scroll down until they find that video which then will tell them the number of views before clicking on it. 
 
 We used both quantitative and qualitative data to assess how valuable the reel was to our feed. It was key to note the data we gathered to assess the engagement of each video. Looking at Instagram's algorithm, it can be difficult to correlate high engagement on a video considering the numerous variables influencing how relevant and enjoyable a consumer will rate it. Sponsored content can often prioritize the promotion of a product and many times can come at the cost of user enjoyment. These sponsored posts aim to reach an ideal target audience through Instagram's algorithm, but we can acknowledge they aren’t typically successful when it comes to receiving a high rating from consumers.
 
 ### Ethics/Legality
 
-There aren't really any legal or ethical considerations with the creation of this dataset. All these metrics that we chose to collect can be hidden by the creator which would make it so the users are unable to view it. The creator also has an option to make an account private which means that no one but people they approve can view the content they are creating. 
-
+Based on the terms of service, there is no legal concerns for this dataset. Ethical concerns could be storing this data without the content creators consent, but with the way Instagram is formatted we felt it is not an ethical problem. The metrics we are storing like views, likes, and followers can all be disbaled from viewing by the creators, and to a further extent the creator can make thier account private. Therfore, we decided that collecting these metrics would break any ethical lines. 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
