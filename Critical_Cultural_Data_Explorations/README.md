@@ -98,8 +98,8 @@ there is a big improvement in data completeness and performance. It showcases th
 is a common narrative among NBA fans. 
 
 Group Contribution:
-Ahmad S
-Alan K
-Alex G
-Haydn E
+Ahmad S,
+Alan K,
+Alex G,
+Haydn E,
 Justin B
