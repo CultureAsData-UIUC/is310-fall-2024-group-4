@@ -97,3 +97,9 @@ The AI does critique the old dataset stating that the new dataset has a more hol
 there is a big improvement in data completeness and performance. It showcases that players are improving as time goes on, which 
 is a common narrative among NBA fans. 
 
+Group Contribution:
+Ahmad S
+Alan K
+Alex G
+Haydn E
+Justin B
