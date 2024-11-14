@@ -58,6 +58,10 @@ We can include these Alt Texts alongside other data like engagement metrics (lik
 
 This method will allow us to incorporate both the visual and text elements of Instagram posts in our analysis, creating a more holistic view of audience engagement and provide deeper insights into fan behavior and preferences. 
 
+![screensshot1](https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/blob/main/Computing%20Cultural%20Data/Screenshot%202024-11-12%20152209.png?raw=true)
+
+![screenshot2](https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/blob/main/Computing%20Cultural%20Data/Screenshot%202024-11-12%20151824.png)
+
 
 **Measuring Discursive Influence Summary (Haydn)**
 
