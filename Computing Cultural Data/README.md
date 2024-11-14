@@ -38,6 +38,8 @@ The original document where we documented our work can be found [here](https://d
 
 **Topic Modeling for Instagram Posts (Alan)**
 
+[Analysis of Instagram Post Engagement through Topic Modeling](https://github.com/Abdul-AA/Instagram-post-analysis) 
+
 I found a Github repo that uses Topic modeling to understand how images in Instagram posts and the engagement on them create themes. Takes advantage of Google Vision to identify what the images in an Instagram post are conveying.
 
 
@@ -50,6 +52,8 @@ I found a Github repo that uses Topic modeling to understand how images in Insta
     3. It’s even an MIT license, which is great if we want to reuse some of the code
 
 **Instagram Alt Texts (Justin)**
+
+Instagram Alt Texts [https://accessibility.huit.harvard.edu/describe-content-images](https://accessibility.huit.harvard.edu/describe-content-images), [https://help.instagram.com/503708446705527](https://help.instagram.com/503708446705527)
 
 1. I reviewed the article titled Through the Eyes of Instagram: Analyzing Image Content utilizing Meta’s Automatic Alt-Text, authored by João Francisco Hecksher Olivetti and Philipe de Freitas Melo. It was published in 2023 and is based out of Universidade Federal de Viçosa in Brazil.
 2. This research examines the use of Meta’s Automatic Alt-Text (AAT) feature, which generates AI-driven descriptions for images on Instagram. AAT translates visual elements in the image into text descriptions, allowing researchers to study the content without the influence of captions. This approach uses computer vision to interpret images and creates a standardized form of data for analysis.
@@ -66,7 +70,7 @@ I found a Github repo that uses Topic modeling to understand how images in Insta
 
 **Measuring Discursive Influence Summary (Haydn)**
 
-
+[https://www.pnas.org/doi/abs/10.1073/pnas.1719792115](https://www.pnas.org/doi/abs/10.1073/pnas.1719792115)
 
 1. A. Gerow, Y. Hu, J. Boyd-Graber, D.M. Blei, J.A. Evans, Measuring discursive influence across scholarship, *Proc. Natl. Acad. Sci. U.S.A.*
 
@@ -80,7 +84,7 @@ I found a Github repo that uses Topic modeling to understand how images in Insta
 
 **Twitter Topic Modeling Summary (Alex)**
 
-
+[Twitter Topic modeling](https://link.springer.com/chapter/10.1007/978-3-031-18840-4_15)
 
 1. The first study linked relates to how Athletes’ performances significantly shift when Twitter users @ the athlete before games, done by Otto von Guericke University, Magdeburg, Germany in 2022. The authors listed are Frank Dreyer, Jannik Greif, Kolja Gu ̈nther, Myra Spiliopoulou, and Uli Niemann. The title of the paper is *Data-Driven Prediction of Athletes’ Performance based on their Social Media Presence*. 
 2. The idea of the study is to look at athletes' performances, and how they change when they get more or less Twitter @’s before games. They found there are significant changes in players' stats based on this variable. The study does not go into the technical methods of how they monitored this, but I have found another source to go into how it might’ve been possible. 
@@ -92,7 +96,7 @@ I found a Github repo that uses Topic modeling to understand how images in Insta
 
 # **Leveraging AI for Fan Sentiment Analysis(Ahmad)**
 
-
+[Leveraging AI for Fan Sentiment Analysis | DSI | Vanderbilt University](https://www.vanderbilt.edu/datascience/2024/08/13/nashville-sc-leveraging-ai-for-fan-sentiment-analysis/) 
 
 1. The author is Miguel Nunez, published on 8/13/2024. The Publication Venue is Vanderbilt University
 2. Natural Language Processing and AI analysis were both techniques used to evaluate discussions about team performance, pricing, and more. This data was used for developing strategies that are targeted towards improving fan experience and engagement.
