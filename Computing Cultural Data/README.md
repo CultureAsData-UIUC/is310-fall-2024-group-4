@@ -1,3 +1,4 @@
+The original document where we documented our work can be found [here](https://docs.google.com/document/d/1jiZu7202nsj72C1fidfOaHzQAlwRsdrb271cNmbg2gI/edit?tab=t.0)
 # **Methods + Data Selection**
 
 
