@@ -51,13 +51,13 @@ I found a Github repo that uses Topic modeling to understand how images in Insta
 
 **Instagram Alt Texts (Justin)**
 
-Above in section 2 were 2 screenshots demonstrating how Instagram accounts are able to create alternative text versions of the images in posts. This can give us a more standardized look at what these posts are trying to convey. If the creator of the post doesn’t add the image alt text themselves, then Instagram will automatically add on itself, similar to Google vision. According to Harvard’s Accessibility guidelines and Instagram’s help resources, if a user doesn't manually add alt text, Instagram’s automated system generates it using AI, similar to Google Vision. 
+1. I reviewed the article titled Through the Eyes of Instagram: Analyzing Image Content utilizing Meta’s Automatic Alt-Text, authored by João Francisco Hecksher Olivetti and Philipe de Freitas Melo. It was published in 2023 and is based out of Universidade Federal de Viçosa in Brazil.
+2. This research examines the use of Meta’s Automatic Alt-Text (AAT) feature, which generates AI-driven descriptions for images on Instagram. AAT translates visual elements in the image into text descriptions, allowing researchers to study the content without the influence of captions. This approach uses computer vision to interpret images and creates a standardized form of data for analysis.
+3. Olivetti and Melo argue that Meta’s AAT provides a way to look at Instagram images through an objective lens, offering insights into how visual content is categorized and perceived by an AI system. By analyzing these alt-text descriptions, the authors explore how visual content is shared and how it can be grouped into themes that could inform marketing, social behavior, or content strategies.
+4. While the alt-text algorithm itself is proprietary to Meta, the article outlines how to scrape Instagram posts to collect alt-text data for research purposes. The authors provide their methodology for using AAT descriptions, but the actual source code from Meta isn't publicly shared.
+5. I found it particularly interesting that AAT allows for a standardized approach to understanding image content without the ambiguity of human-created captions. It also has potential in Digital Humanities and Computational Social Sciences, fields that benefit from computational methods to analyze large datasets. This is especially useful for studying visual culture on platforms like Instagram.
+6. This research could be extremely useful for analyzing Instagram content in a way that removes the subjectivity of captions. By focusing on alt-text descriptions, we could gain a clearer understanding of how audiences engage with visual elements in sports content, especially when comparing different types of images or themes.
 
-For our project, we can scrape Instagram accounts to extract these Alt Texts from their posts, giving us a standardized erosion of what the image is conveying without depending strictly on the caption. This is helpful when understanding the content of sports posts by NBA teams of athletes, without relying on subjective interpretations from captions.  Alt Texts give us consistency when analyzing image content, beyond from the text-based posts and comments. 
-
-We can include these Alt Texts alongside other data like engagement metrics (likes, shares, comments), to analyze how different types of content resonate with audiences. 
-
-This method will allow us to incorporate both the visual and text elements of Instagram posts in our analysis, creating a more holistic view of audience engagement and provide deeper insights into fan behavior and preferences. 
 
 ![screensshot1](https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/blob/main/Computing%20Cultural%20Data/Screenshot%202024-11-12%20152209.png?raw=true)
 
