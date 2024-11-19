@@ -5,11 +5,11 @@ The original document where we documented our work can be found [here](https://d
 
 ## 1. **Three Computational Methods**
 
-    1. Statistical Analysis (Regression Models) 
+*  Statistical Analysis (Regression Models) 
     
-    2. Sentiment Analysis: identify and categorize opinions within a large collection of data, usually text. So, Tweets on Twitter would be perfect
+*  Sentiment Analysis: identify and categorize opinions within a large collection of data, usually text. So, Tweets on Twitter would be perfect
 
-    3. Topic modeling: Used to identify "topics," within large collections of text. Groups words that frequently appear together into topics, and reveals the main subjects discussed in a textual dataset. For example: Latent Dirichlet Allocation (LDA), which categorizes documents by assigning each a probability distribution across multiple topics.
+*  Topic modeling: Used to identify "topics," within large collections of text. Groups words that frequently appear together into topics, and reveals the main subjects discussed in a textual dataset. For example: Latent Dirichlet Allocation (LDA), which categorizes documents by assigning each a probability distribution across multiple topics.
 
 ## 2. **Two Cultural Data Types**
 
@@ -136,4 +136,4 @@ Instagram Alt Texts [https://accessibility.huit.harvard.edu/describe-content-ima
 
 # **Our Selected methods**
 
-	Our group decided that we like topic modeling, and we will be using it going forward with our semester-long project. The example that we found for this type of computational method was made by a GitHub user named Abdul-AA. He analyzes Instagram posts to cover specific categories and the weights in which these categories garner engagement and following on the platform. In his conclusion, he determined that posts related to sports were one of the highest and most effective ways to increase audience engagement. We feel that it makes sense to use this approach due to the thoroughness and the overlap in our project as related to what Abdul created. He’s provided a great example to learn from and conceptually use for our project.
+*	Our group decided that we like topic modeling, and we will be using it going forward with our semester-long project. The example that we found for this type of computational method was made by a GitHub user named Abdul-AA. He analyzes Instagram posts to cover specific categories and the weights in which these categories garner engagement and following on the platform. In his conclusion, he determined that posts related to sports were one of the highest and most effective ways to increase audience engagement. We feel that it makes sense to use this approach due to the thoroughness and the overlap in our project as related to what Abdul created. He’s provided a great example to learn from and conceptually use for our project.
