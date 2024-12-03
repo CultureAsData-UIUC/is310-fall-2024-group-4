@@ -3,29 +3,24 @@ The original document where we documented our work can be found [here](https://d
 
 
 
-1. **Three Computational Methods**
-    1. Statistical Analysis (Regression Models) 
-    2. Sentiment Analysis: identify and categorize opinions within a large collection of data, usually text.
-        1. Tweets on Twitter would be perfect
-    3. Topic modeling: Used to identify "topics," within large collections of text. Groups words that frequently appear together into topics, and reveals the main subjects discussed in a textual dataset.
-        2. Example: Latent Dirichlet Allocation (LDA), which categorizes documents by assigning each a probability distribution across multiple topics.
-2. **Two Cultural Data Types**
-    4. Twitter posts [Assigned to: Alex]
-        3. Explore tweets related to players, injuries, games, events, signings etc.
-        4. Posts and comments reflect how people are talking about what’s going on in the NBA, such as opinions and reactions to news or events.
-            1. Analyzing this can reveal common themes, slang, expressions of fandom, and sentiments about teams or players.
-        5. Gather data on engagement: views, captions, comments, likes, shares, follower counts, etc to gauge the cultural impact of tweets
-    5. Instagram posts [Assigned to Alan]
-        6. Explore posts/reels related to players, injuries, games, events, signings, etc.
-            2. Possibly use topic modeling to split posts into “topics”
-        7. Gather Instagram posts from NBA team accounts to analyze the text and images associated with each post.
-            3. Also, gather the engagement per post to understand how followers engage with certain topics. Associate overall engagement with each topic that the model creates.
-        8. Visualize the distribution of topics among an NBA team’s Instagram posts
+## 1. **Three Computational Methods**
+
+*  Statistical Analysis (Regression Models) 
+    
+*  Sentiment Analysis: identify and categorize opinions within a large collection of data, usually text. So, Tweets on Twitter would be perfect
+
+*  Topic modeling: Used to identify "topics," within large collections of text. Groups words that frequently appear together into topics, and reveals the main subjects discussed in a textual dataset. For example: Latent Dirichlet Allocation (LDA), which categorizes documents by assigning each a probability distribution across multiple topics.
+
+## 2. **Two Cultural Data Types**
+
+### Twitter posts and Instagram posts
+
+Explore tweets/posts related to players, injuries, games, events, signings etc. Posts and comments reflect how people are talking about what’s going on in the NBA, such as opinions and reactions to news or events. Analyzing this can reveal common themes, slang, expressions of fandom, and sentiments about teams or players. Gather data on engagement: views, captions, comments, likes, shares, follower counts, etc to gauge the cultural impact of tweets
+
+Additionally, we can  use topic modeling to split posts into “topics” by gathering posts from NBA team accounts to analyze the text and images associated with each post. Also, we can gather the engagement per post to understand how followers engage with certain topics. We then can associate overall engagement with each topic that the model creates and visualize the distribution of topics among an NBA team’s Instagram posts
 
 
 # **Scholarships**
-
-
 
 * (Alan) [Analysis of Instagram Post Engagement through Topic Modeling](https://github.com/Abdul-AA/Instagram-post-analysis) 
 * (Justin) Instagram Alt Texts [https://accessibility.huit.harvard.edu/describe-content-images](https://accessibility.huit.harvard.edu/describe-content-images), [https://help.instagram.com/503708446705527](https://help.instagram.com/503708446705527)
@@ -36,22 +31,55 @@ The original document where we documented our work can be found [here](https://d
 
 # **Scholarship Summaries**
 
-**Topic Modeling for Instagram Posts (Alan)**
+## **Topic Modeling for Instagram Posts (Alan)**
 
 [Analysis of Instagram Post Engagement through Topic Modeling](https://github.com/Abdul-AA/Instagram-post-analysis) 
 
 I found a Github repo that uses Topic modeling to understand how images in Instagram posts and the engagement on them create themes. Takes advantage of Google Vision to identify what the images in an Instagram post are conveying.
 
 
+1.  Analysis of Instagram Post Engagement through Topic Modeling.
 
-1. This repo was created by GitHub user `Abdul-AA` this year and is still being maintained.
-2. He modeled the various topics that an account would post, and how much engagement they received.
-3. Abdul’s code for accomplishing this is viewable to anyone as he attached the Jupyter Notebook he did the work with
-    1. Uses several complex libraries, from Google vision, gensim, nltk, to pandas.
-    2. Although the code is complicated, I understand that the code creates distinct topics based on the posts, and then categorizes each post into the topics by assigning a weight/probability for each topic.
-    3. It’s even an MIT license, which is great if we want to reuse some of the code
 
-**Instagram Alt Texts (Justin)**
+
+* Published by Abdulrahman Aroworamimo via a Jupyter Notebook shared on Github on May 2, 2024.
+
+2. Methods
+
+
+
+* Computational Method:s
+    * Image Labeling: Images from Instagram posts were labeled using the Google Vision API to identify descriptive keywords.
+    * Topic Modeling: Latent Dirichlet Allocation (LDA) was used to group captions and image labels into eight distinct topics. Each image was then assigned a probabilistic distribution across these topics.
+    * Engagement Analysis: Post engagement was measured based on the number of comments, categorizing posts into high and low-engagement groups to compare topic relevance.
+* The data of Instagram images and captions were transformed into text-only labels that were generated by Google Vision. Then, these labels were grouped into themes/topics, which were then analyzed for patterns in user engagement.
+
+3. Argument
+
+
+
+* “The goal is to identify which topics are associated with higher engagement, defined as the number of comments. This information can guide content strategy to increase engagement on the platform.”
+* When looking in the notebook for the results I found that certain content topics on Instagram are associated with higher engagement levels. Posts related to sports, formal events, and outdoor leisure tend to perform better in terms of comments. Topics like casual wear and digital branding show lower engagement, suggesting potential areas for content reevaluation.
+* The LDA package included commands that would sort these images into common themes/topics by weighing the relationship between each topic and comments
+
+4. Sample Code
+
+
+
+* It uses a Python notebook for all the work. Scanning and identifying what’s going on in the images is done with Google Vision.  LDA is also used for topic modeling the images’ text descriptions. And packages like pandas is used for data cleaning, analyzing, and visualization.
+* The dataset is 1522 images across a sample of 296 Instagram posts. The publisher did not specify whether the posts came from the same account or not.
+
+5. What was interesting
+
+
+
+* The Google Vision Python package looks super interesting and seems to do a good job of identifying what’s in a digital image. I do wonder what the runtimes of processing images would look like, as AI tends to be resource-intensive when working.
+* This work would fall under Digital Humanities as it’s using a computational method of analyzing digital social media posts using algorithms to find patterns in their topics to study cultural topics from digital media..
+
+6. Usefulness: This study demonstrates how post(s) content can be quantitatively linked to content themes, which is directly applicable to our NBA social media project. What we can gather from topic modeling can reveal common themes on NBA teams’ Twitter and Instagram to understand what NBA teams want their social media presence to look like
+
+
+## **Instagram Alt Texts (Justin)**
 
 Instagram Alt Texts [https://accessibility.huit.harvard.edu/describe-content-images](https://accessibility.huit.harvard.edu/describe-content-images), [https://help.instagram.com/503708446705527](https://help.instagram.com/503708446705527)
 
@@ -68,7 +96,7 @@ Instagram Alt Texts [https://accessibility.huit.harvard.edu/describe-content-ima
 ![screenshot2](https://github.com/CultureAsData-UIUC/is310-fall-2024-group-4/blob/main/Computing%20Cultural%20Data/Screenshot%202024-11-12%20151824.png)
 
 
-**Measuring Discursive Influence Summary (Haydn)**
+## **Measuring Discursive Influence Summary (Haydn)**
 
 [https://www.pnas.org/doi/abs/10.1073/pnas.1719792115](https://www.pnas.org/doi/abs/10.1073/pnas.1719792115)
 
@@ -82,7 +110,7 @@ Instagram Alt Texts [https://accessibility.huit.harvard.edu/describe-content-ima
 5. I would consider this analysis to be within the field of Digital Humanities due to the nature of the data. Accreditation to authors and awards seem like an interdisciplinary element of social culture. Authors are part of the ecosystem that is human culture & digital humanities. It’s also in human ethical and legal approaches to credit authors for their work, which definitely feels like a digital humanities problem to me.
 6. This scholarship would be useful in that it provides an example of one of the methods that we could use. Though at this point, I think we’ve decided that we like topic modeling. However, this analysis still serves as an example and perspective of the different types of methods that we could’ve used. It may or may not sway us in future endeavors. Though, if we decided to use this form of analysis, this scholarship would be very useful to us in that it would guide us to perform our own analysis.
 
-**Twitter Topic Modeling Summary (Alex)**
+## **Twitter Topic Modeling Summary (Alex)**
 
 [Twitter Topic modeling](https://link.springer.com/chapter/10.1007/978-3-031-18840-4_15)
 
@@ -94,7 +122,7 @@ Instagram Alt Texts [https://accessibility.huit.harvard.edu/describe-content-ima
 6. This article and code is relevant to the project because it is somewhat similar to what we want to do. Using topic modeling to analyze Twitter data specifically relating to sports tweets could be transferred to grouping NBA player tweet topics relating to performance, or something about how much or what NBA players tweet during the season and if it affects their performance on the court. 
 
 
-# **Leveraging AI for Fan Sentiment Analysis(Ahmad)**
+## **Leveraging AI for Fan Sentiment Analysis(Ahmad)**
 
 [Leveraging AI for Fan Sentiment Analysis | DSI | Vanderbilt University](https://www.vanderbilt.edu/datascience/2024/08/13/nashville-sc-leveraging-ai-for-fan-sentiment-analysis/) 
 
@@ -108,4 +136,4 @@ Instagram Alt Texts [https://accessibility.huit.harvard.edu/describe-content-ima
 
 # **Our Selected methods**
 
-	Our group decided that we like topic modeling, and we will be using it going forward with our semester-long project. The example that we found for this type of computational method was made by a GitHub user named Abdul-AA. He analyzes Instagram posts to cover specific categories and the weights in which these categories garner engagement and following on the platform. In his conclusion, he determined that posts related to sports were one of the highest and most effective ways to increase audience engagement. We feel that it makes sense to use this approach due to the thoroughness and the overlap in our project as related to what Abdul created. He’s provided a great example to learn from and conceptually use for our project.
+*	Our group decided that we like topic modeling, and we will be using it going forward with our semester-long project. The example that we found for this type of computational method was made by a GitHub user named Abdul-AA. He analyzes Instagram posts to cover specific categories and the weights in which these categories garner engagement and following on the platform. In his conclusion, he determined that posts related to sports were one of the highest and most effective ways to increase audience engagement. We feel that it makes sense to use this approach due to the thoroughness and the overlap in our project as related to what Abdul created. He’s provided a great example to learn from and conceptually use for our project.
