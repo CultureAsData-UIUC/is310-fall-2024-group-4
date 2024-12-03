@@ -12,4 +12,3 @@ Our group is committed to learning and discovering if there is a pattern or corr
 - Alex G.
 - Alan K.
 - Ahmad S.
-
