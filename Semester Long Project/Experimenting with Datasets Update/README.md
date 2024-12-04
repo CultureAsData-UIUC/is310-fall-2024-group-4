@@ -1,3 +1,12 @@
+# Requirements
+- Python 3.12+
+- matplotlib
+- ipywidgets
+- bqplot
+- pandas
+- numpy
+- math
+
 # Experimenting With Datasets
 
 This directory contains the experiments we conducted on our dataset for the final group project checkpoint.
